@@ -25,7 +25,7 @@ fruta_meio_removida = fruta.lista_frutas.pop(indice_meio)
 print(f"Removido da lista de frutas: {fruta_meio_removida}")
 print("-" * 20)
 
-# --- Exibe as listas modificadas na tela ---
+
 print("Listas Modificadas:")
 print(f"Nomes: {lista_nome.lista_nome}")
 print(f"Números: {lista_numero.lista_numero}")
